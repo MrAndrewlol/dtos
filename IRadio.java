@@ -41,4 +41,7 @@ public interface IRadio {
 	
 	public int getAMSlot(int slot);
 }
-//Autor 
+
+=======
+//Autor Andre Jo
+>>>>>>> dde6ad87763f331b1828bf77288f32cf9f6c42be
