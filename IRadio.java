@@ -41,4 +41,3 @@ public interface IRadio {
 	
 	public int getAMSlot(int slot);
 }
-//jk
