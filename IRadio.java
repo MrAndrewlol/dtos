@@ -39,6 +39,6 @@ public interface IRadio {
 	
 	public double getFMSlot(int slot);
 	
-	public int getAMSlot(int slot);
+	//public int getAMSlot(int slot);
 }
-//Nuevo mensaje
+//XD
